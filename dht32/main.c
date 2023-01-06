@@ -23,7 +23,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#include "MY_DHT22.h"
+#include "DHT22.h"
 
 /* USER CODE END Includes */
 
